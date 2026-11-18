@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "HighOctanethan.aternos.me",
-    "port": 50543,
+    "ip": "playnormalmc.aternos.me",
+    "port": 13365,
     "version": "",
     "try-creative": false
   },
